@@ -124,13 +124,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="414" width="75" height="30" as="geometry" />
+          <mxGeometry x="201" y="411" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="404" y="410" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
