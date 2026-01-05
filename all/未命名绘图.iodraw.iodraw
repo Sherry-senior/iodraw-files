@@ -29,7 +29,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-22">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-25" value="HPLC测定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-22">
           <mxGeometry x="0.7574" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
