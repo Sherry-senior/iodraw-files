@@ -126,7 +126,7 @@
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="410" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠粘膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
