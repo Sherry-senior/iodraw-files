@@ -126,10 +126,10 @@
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="411" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="584.52" y="353.99999999999994" as="sourcePoint" />
-            <mxPoint x="240" y="410" as="targetPoint" />
+            <mxPoint x="642" y="320" as="sourcePoint" />
+            <mxPoint x="242" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
