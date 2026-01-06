@@ -172,6 +172,11 @@
             <mxPoint x="123.5" y="406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UntIqX0__Dm75MM4-y4_-86" value="免疫器官" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-48">
+          <mxGeometry x="0.0261" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86" y="347" width="75" height="29" as="geometry" />
         </mxCell>
@@ -260,6 +265,11 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-85" value="一般评价" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-50">
           <mxGeometry x="-0.7519" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UntIqX0__Dm75MM4-y4_-87" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-50">
+          <mxGeometry x="0.8089" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-10" value="毒性靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
