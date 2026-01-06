@@ -315,7 +315,7 @@
         </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-8" value="筛选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-6">
           <mxGeometry x="-0.1571" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-70" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -325,8 +325,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="980" y="480" />
-              <mxPoint x="1030" y="480" />
+              <mxPoint x="980" y="470" />
+              <mxPoint x="1030" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
