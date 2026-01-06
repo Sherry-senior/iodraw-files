@@ -354,9 +354,6 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-88" value="&lt;b&gt;粪便&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="348" width="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="792.5" y="100" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;strokeColor=#FF6666;" edge="1" parent="1" target="-5XlcRj4ZRUCD5dpkkbe-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="810" as="targetPoint" />
