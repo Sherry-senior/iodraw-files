@@ -371,13 +371,14 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-88" value="&lt;b&gt;粪便&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="348" width="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;strokeColor=#FF6666;exitX=0.607;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-5XlcRj4ZRUCD5dpkkbe-14">
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;strokeColor=#FF6666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-5XlcRj4ZRUCD5dpkkbe-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="505" as="targetPoint" />
             <mxPoint x="913" y="590" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="920" y="581" />
-              <mxPoint x="920" y="602" />
+              <mxPoint x="923" y="581" />
+              <mxPoint x="930" y="581" />
+              <mxPoint x="930" y="602" />
               <mxPoint x="430" y="602" />
             </Array>
           </mxGeometry>
