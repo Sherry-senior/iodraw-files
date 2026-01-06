@@ -371,7 +371,7 @@
         </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-17">
           <mxGeometry x="0.6667" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-32" y="-195" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
