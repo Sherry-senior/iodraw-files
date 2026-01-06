@@ -150,50 +150,6 @@
             <mxPoint x="242" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735.0000000000002" y="400" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="735" y="430" />
-              <mxPoint x="779" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-35" value="WB&amp;amp;IHC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-21">
-          <mxGeometry x="0.6015" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="742.0000000000002" y="399" as="sourcePoint" />
-            <mxPoint x="694" y="476" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="742" y="429" />
-              <mxPoint x="694" y="429" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-30" value="ELISA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-24">
-          <mxGeometry x="0.5876" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="400" as="sourcePoint" />
-            <mxPoint x="854.0000000000002" y="477" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="430" />
-              <mxPoint x="854" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-36" value="ELISA&amp;amp;qPCR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-27">
-          <mxGeometry x="0.7399" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="364" width="80" height="34" as="geometry" />
         </mxCell>
