@@ -158,6 +158,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UntIqX0__Dm75MM4-y4_-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-21">
+          <mxGeometry x="0.5464" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -166,7 +171,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-24">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-30" value="ELISA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-24">
           <mxGeometry x="0.5876" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
