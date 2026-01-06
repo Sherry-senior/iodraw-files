@@ -277,13 +277,7 @@
           <mxGeometry x="950" y="170" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-11" value="通路-毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="991" y="250" width="85" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21" target="UntIqX0__Dm75MM4-y4_-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="270" as="sourcePoint" />
-            <mxPoint x="750" y="220" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1072" y="173" width="85" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543" y="458" width="75" height="36" as="geometry" />
