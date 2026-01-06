@@ -309,6 +309,9 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-69" value="粪便" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="590" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="UntIqX0__Dm75MM4-y4_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-70" target="UntIqX0__Dm75MM4-y4_-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-70" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="650" width="123" height="30" as="geometry" />
         </mxCell>
