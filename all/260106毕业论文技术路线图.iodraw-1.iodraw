@@ -150,23 +150,26 @@
             <mxPoint x="242" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="351" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="400" as="sourcePoint" />
+            <mxPoint x="740" y="353" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="740" y="470" />
-              <mxPoint x="618" y="470" />
+              <mxPoint x="740" y="423" />
+              <mxPoint x="618" y="423" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-19">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-19">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="351" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="740" y="470" />
-              <mxPoint x="858" y="470" />
+              <mxPoint x="740" y="423" />
+              <mxPoint x="858" y="423" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -233,19 +236,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="541" width="75" height="36" as="geometry" />
+          <mxGeometry x="580" y="494" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="541" width="75" height="36" as="geometry" />
+          <mxGeometry x="660" y="494" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="542" width="75" height="36" as="geometry" />
+          <mxGeometry x="820" y="495" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="741" y="542" width="75" height="36" as="geometry" />
+          <mxGeometry x="741" y="495" width="75" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="351" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
