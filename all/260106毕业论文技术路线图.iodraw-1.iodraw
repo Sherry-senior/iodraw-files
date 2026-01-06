@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-4" value="毒性靶点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="694" y="157" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="170" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
