@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="390" width="850" height="120" as="geometry" />
+          <mxGeometry x="12" y="380" width="850" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-1" value="&lt;b&gt;生党参&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="30" width="60" height="30" as="geometry" />
@@ -268,7 +268,7 @@
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-85" value="一般评价" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-50">
           <mxGeometry x="-0.7519" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="9" as="offset" />
+            <mxPoint x="-12" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-87" value="ELISA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xeAVBhwWFny6fkCm9ETM-50">
