@@ -354,6 +354,11 @@
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="792.5" y="100" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-5XlcRj4ZRUCD5dpkkbe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-9" value="相关KEGG通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="994" y="552" width="90" height="30" as="geometry" />
         </mxCell>
