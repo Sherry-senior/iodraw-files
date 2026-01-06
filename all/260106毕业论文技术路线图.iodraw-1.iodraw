@@ -167,7 +167,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xeAVBhwWFny6fkCm9ETM-32" edge="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xeAVBhwWFny6fkCm9ETM-32" target="xeAVBhwWFny6fkCm9ETM-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="123.5" y="406" as="targetPoint" />
           </mxGeometry>
@@ -246,7 +246,7 @@
         <mxCell id="xeAVBhwWFny6fkCm9ETM-47" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="433" width="62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="xeAVBhwWFny6fkCm9ETM-47" edge="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" source="xeAVBhwWFny6fkCm9ETM-45" target="xeAVBhwWFny6fkCm9ETM-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="44.5" y="406" as="sourcePoint" />
             <mxPoint x="205.5" y="406" as="targetPoint" />
