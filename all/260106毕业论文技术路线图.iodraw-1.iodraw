@@ -282,10 +282,10 @@
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-58" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="677" y="323" as="sourcePoint" />
-            <mxPoint x="696" y="347" as="targetPoint" />
+            <mxPoint x="677" y="319" as="sourcePoint" />
+            <mxPoint x="696" y="343" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="696" y="323" />
+              <mxPoint x="696" y="319" />
             </Array>
           </mxGeometry>
         </mxCell>
