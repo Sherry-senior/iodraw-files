@@ -285,12 +285,6 @@
             <mxPoint x="750" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-11" target="UntIqX0__Dm75MM4-y4_-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="270" as="sourcePoint" />
-            <mxPoint x="950" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543" y="458" width="75" height="36" as="geometry" />
         </mxCell>
