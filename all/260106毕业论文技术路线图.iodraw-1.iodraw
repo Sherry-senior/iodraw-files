@@ -397,10 +397,10 @@
             <mxPoint x="980" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-35" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-35" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=9;startSize=4.72;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="750" y="360" as="sourcePoint" />
-            <mxPoint x="850" y="260" as="targetPoint" />
+            <mxPoint x="830" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
