@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="663" y="343" width="80" height="34" as="geometry" />
+          <mxGeometry x="670" y="350" width="73" height="27" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-34" target="UntIqX0__Dm75MM4-y4_-59">
           <mxGeometry relative="1" as="geometry" />
