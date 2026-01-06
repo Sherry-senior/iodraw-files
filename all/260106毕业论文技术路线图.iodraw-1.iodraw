@@ -105,8 +105,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21" target="UntIqX0__Dm75MM4-y4_-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="183.91666666666663" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-5">
           <mxGeometry x="-0.1278" y="4" relative="1" as="geometry">
@@ -203,17 +205,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-4" target="UntIqX0__Dm75MM4-y4_-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-4" value="毒性靶点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="170" width="70" height="34.25" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="183.91666666666663" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-8" value="构建“化合物-靶点-通路-毒性表型”网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="168.25" width="100" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="231" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="250" width="70" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
