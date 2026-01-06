@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-9" value="免疫抑制小鼠" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="488" y="172" width="80" height="29" as="geometry" />
+          <mxGeometry x="487" y="172" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-10" value="多糖总含量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="102" y="260" width="80" height="30" as="geometry" />
@@ -135,7 +135,7 @@
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951" y="183.91666666666663" as="targetPoint" />
+            <mxPoint x="950" y="183.91666666666663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-5">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-21" value="环磷酰胺" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="653" y="172" width="68" height="30" as="geometry" />
+          <mxGeometry x="652" y="172" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="88" y="347" width="75" height="29" as="geometry" />
+          <mxGeometry x="89" y="347" width="75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry" />
@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="655" y="343" width="80" height="34" as="geometry" />
+          <mxGeometry x="656" y="343" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-34" target="UntIqX0__Dm75MM4-y4_-59">
           <mxGeometry relative="1" as="geometry" />
@@ -232,84 +232,84 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="346" width="80" height="30" as="geometry" />
+          <mxGeometry x="351" y="346" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-42" target="xeAVBhwWFny6fkCm9ETM-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-42" value="一般情况" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16" y="406" width="61" height="30" as="geometry" />
+          <mxGeometry x="17" y="406" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-43" target="xeAVBhwWFny6fkCm9ETM-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-43" value="免疫器官" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="406" width="61" height="30" as="geometry" />
+          <mxGeometry x="96" y="406" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-44" target="xeAVBhwWFny6fkCm9ETM-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-44" value="血清" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="406" width="61" height="30" as="geometry" />
+          <mxGeometry x="178" y="406" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-45" value="体重&lt;div&gt;食量&lt;/div&gt;&lt;div&gt;精神&lt;/div&gt;&lt;div&gt;粪便&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16" y="456" width="61" height="60" as="geometry" />
+          <mxGeometry x="17" y="456" width="61" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-46" value="脏器指数&lt;div&gt;H&amp;amp;E染色&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="456" width="62" height="60" as="geometry" />
+          <mxGeometry x="96" y="456" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-47" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="177" y="456" width="62" height="60" as="geometry" />
+          <mxGeometry x="178" y="456" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xeAVBhwWFny6fkCm9ETM-42" target="xeAVBhwWFny6fkCm9ETM-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="44.75" y="386" as="sourcePoint" />
-            <mxPoint x="207" y="386" as="targetPoint" />
+            <mxPoint x="45.75" y="386" as="sourcePoint" />
+            <mxPoint x="208" y="386" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="47" y="386" />
-              <mxPoint x="147" y="386" />
-              <mxPoint x="208" y="386" />
+              <mxPoint x="48" y="386" />
+              <mxPoint x="148" y="386" />
+              <mxPoint x="209" y="386" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-10" value="毒性靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="951" y="170" width="70" height="31" as="geometry" />
+          <mxGeometry x="950" y="170" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-11" value="通路-毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="791" y="232" width="85" height="29" as="geometry" />
+          <mxGeometry x="790" y="232" width="85" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21" target="UntIqX0__Dm75MM4-y4_-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="701" y="270" as="sourcePoint" />
-            <mxPoint x="751" y="220" as="targetPoint" />
+            <mxPoint x="700" y="270" as="sourcePoint" />
+            <mxPoint x="750" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-11" target="UntIqX0__Dm75MM4-y4_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="901" y="270" as="sourcePoint" />
-            <mxPoint x="951" y="220" as="targetPoint" />
+            <mxPoint x="900" y="270" as="sourcePoint" />
+            <mxPoint x="950" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="458" width="75" height="36" as="geometry" />
+          <mxGeometry x="536" y="458" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="458" width="75" height="36" as="geometry" />
+          <mxGeometry x="616" y="458" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="775" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="776" y="459" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="697" y="459" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-59" value="促纤维化通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="457" width="87" height="36" as="geometry" />
+          <mxGeometry x="347" y="457" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;抗氧化通路&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="457" width="80" height="36" as="geometry" />
+          <mxGeometry x="254" y="457" width="80" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-62" value="免疫炎症因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="457" width="78" height="36" as="geometry" />
+          <mxGeometry x="446" y="457" width="78" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-69" target="UntIqX0__Dm75MM4-y4_-70">
           <mxGeometry relative="1" as="geometry" />
@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-69" value="粪便" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="989.5" y="346" width="50" height="20" as="geometry" />
+          <mxGeometry x="990.5" y="346" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-70" target="UntIqX0__Dm75MM4-y4_-71">
           <mxGeometry relative="1" as="geometry" />
@@ -329,13 +329,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-70" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="953" y="406" width="123" height="30" as="geometry" />
+          <mxGeometry x="954" y="406" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-71" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="926" y="466" width="90" height="30" as="geometry" />
+          <mxGeometry x="927" y="466" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-72" value="功能预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1026" y="466" width="81" height="30" as="geometry" />
+          <mxGeometry x="1027" y="466" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
