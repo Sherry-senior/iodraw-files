@@ -420,6 +420,7 @@
             <mxPoint x="1050" y="590" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="650" />
+              <mxPoint x="760" y="650" />
               <mxPoint x="1039" y="650" />
             </Array>
           </mxGeometry>
@@ -427,11 +428,6 @@
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-37" value="比对" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-36">
           <mxGeometry x="-0.0794" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-36">
-          <mxGeometry x="0.2125" y="2" relative="1" as="geometry">
-            <mxPoint x="58" y="92" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
