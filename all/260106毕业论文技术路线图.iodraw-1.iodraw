@@ -279,17 +279,16 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-10" value="毒性靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="170" width="70" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.474;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="394.53600000000006" y="587.672" as="targetPoint" />
-            <mxPoint x="783" y="350" as="sourcePoint" />
+            <mxPoint x="402" y="510" as="targetPoint" />
+            <mxPoint x="795" y="320" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="783" y="381" />
-              <mxPoint x="1069" y="381" />
-              <mxPoint x="1069" y="764" />
-              <mxPoint x="390" y="764" />
-              <mxPoint x="390" y="570" />
-              <mxPoint x="395" y="570" />
+              <mxPoint x="795" y="351" />
+              <mxPoint x="1081" y="351" />
+              <mxPoint x="1081" y="734" />
+              <mxPoint x="402" y="734" />
+              <mxPoint x="402" y="558" />
             </Array>
           </mxGeometry>
         </mxCell>
