@@ -178,7 +178,7 @@
             <mxPoint x="-1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="&lt;b&gt;免疫抑制&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86" y="347" width="75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
