@@ -327,6 +327,9 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-71" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="493" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-72" target="-5XlcRj4ZRUCD5dpkkbe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-72" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;PICRUSt2功能预测&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="939" y="560" width="81" height="30" as="geometry" />
         </mxCell>
@@ -335,6 +338,9 @@
         </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="919.5" y="655" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
