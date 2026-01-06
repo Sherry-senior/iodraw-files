@@ -334,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-71" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="878" y="500" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-72" target="-5XlcRj4ZRUCD5dpkkbe-9">
           <mxGeometry relative="1" as="geometry" />
@@ -358,7 +358,7 @@
           <mxGeometry x="990" y="552" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-14" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;生物功能分析&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="894.5" y="550" width="81" height="30" as="geometry" />
+          <mxGeometry x="882.5" y="550" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-5XlcRj4ZRUCD5dpkkbe-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
