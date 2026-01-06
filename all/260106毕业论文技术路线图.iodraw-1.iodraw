@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="694" y="366" width="80" height="34" as="geometry" />
+          <mxGeometry x="694" y="360" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="366" width="80" height="30" as="geometry" />
@@ -208,6 +208,7 @@
               <mxPoint x="660" y="320" />
               <mxPoint x="681" y="320" />
               <mxPoint x="681" y="330" />
+              <mxPoint x="700" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
