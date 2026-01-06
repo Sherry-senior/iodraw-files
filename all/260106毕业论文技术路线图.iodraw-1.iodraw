@@ -291,7 +291,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-43">
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-45" value="比对及验证" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-43">
           <mxGeometry x="0.3032" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
