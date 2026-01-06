@@ -144,10 +144,10 @@
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="367" width="75" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="xeAVBhwWFny6fkCm9ETM-32" edge="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="321" as="sourcePoint" />
-            <mxPoint x="242" y="320" as="targetPoint" />
+            <mxPoint x="740" y="320" as="sourcePoint" />
+            <mxPoint x="161.5" y="366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
