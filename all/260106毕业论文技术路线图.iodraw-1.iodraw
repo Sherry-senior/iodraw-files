@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="RS_1Yztg2vZJ6uP7AOSv">
-    <mxGraphModel dx="268" dy="305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,7 +159,7 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-19">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
