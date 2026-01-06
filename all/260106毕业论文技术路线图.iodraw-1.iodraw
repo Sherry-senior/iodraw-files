@@ -153,6 +153,10 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="740" y="430" />
+              <mxPoint x="698" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-17">
@@ -250,6 +254,11 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="351" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="741" y="351" />
+              <mxPoint x="741" y="420" />
+              <mxPoint x="779" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
