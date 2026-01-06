@@ -151,7 +151,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="430" />
+              <mxPoint x="725" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry">
@@ -245,7 +250,7 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="477" width="75" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="477" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
