@@ -153,8 +153,8 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="702" y="430" />
-              <mxPoint x="746" y="430" />
+              <mxPoint x="703" y="430" />
+              <mxPoint x="747" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -166,8 +166,8 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="702" y="430" />
-              <mxPoint x="654" y="430" />
+              <mxPoint x="703" y="430" />
+              <mxPoint x="655" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -179,8 +179,8 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="702" y="430" />
-              <mxPoint x="836" y="430" />
+              <mxPoint x="703" y="430" />
+              <mxPoint x="837" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="662" y="366" width="80" height="34" as="geometry" />
+          <mxGeometry x="663" y="366" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="366" width="80" height="30" as="geometry" />
@@ -263,22 +263,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531" y="477" width="75" height="36" as="geometry" />
+          <mxGeometry x="532" y="477" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="616" y="477" width="75" height="36" as="geometry" />
+          <mxGeometry x="617" y="477" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="798" y="477" width="75" height="36" as="geometry" />
+          <mxGeometry x="799" y="477" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="708" y="477" width="75" height="36" as="geometry" />
+          <mxGeometry x="709" y="477" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.419;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="702" y="430" />
-              <mxPoint x="562" y="430" />
+              <mxPoint x="703" y="430" />
+              <mxPoint x="563" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
