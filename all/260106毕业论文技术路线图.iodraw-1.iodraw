@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="681" y="344" width="80" height="34" as="geometry" />
+          <mxGeometry x="680" y="344" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-34" target="UntIqX0__Dm75MM4-y4_-59">
           <mxGeometry relative="1" as="geometry" />
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="368" y="346" width="80" height="30" as="geometry" />
+          <mxGeometry x="350" y="346" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-42" target="xeAVBhwWFny6fkCm9ETM-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -269,16 +269,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="560" y="459" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="640" y="459" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="801" y="460" width="75" height="36" as="geometry" />
+          <mxGeometry x="800" y="460" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="722" y="460" width="75" height="36" as="geometry" />
+          <mxGeometry x="721" y="460" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-58" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -290,13 +290,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-59" value="促纤维化通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="457" width="87" height="36" as="geometry" />
+          <mxGeometry x="346" y="457" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;抗氧化通路&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="457" width="80" height="36" as="geometry" />
+          <mxGeometry x="253" y="457" width="80" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-62" value="免疫炎症因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="457" width="78" height="36" as="geometry" />
+          <mxGeometry x="445" y="457" width="78" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-69" target="UntIqX0__Dm75MM4-y4_-70">
           <mxGeometry relative="1" as="geometry" />
