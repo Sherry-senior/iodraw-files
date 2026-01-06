@@ -278,19 +278,25 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="477" width="75" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="396" as="sourcePoint" />
-            <mxPoint x="600" y="476" as="targetPoint" />
+            <mxPoint x="735" y="390" as="sourcePoint" />
+            <mxPoint x="600" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="735" y="426" />
-              <mxPoint x="606" y="426" />
-              <mxPoint x="606" y="476" />
+              <mxPoint x="735" y="420" />
+              <mxPoint x="606" y="420" />
+              <mxPoint x="606" y="470" />
+              <mxPoint x="603" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-29" value="H&amp;amp;E&lt;div&gt;AB-PAS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-22">
           <mxGeometry x="0.8011" y="2" relative="1" as="geometry">
+            <mxPoint x="-108" y="112" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UntIqX0__Dm75MM4-y4_-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-22">
+          <mxGeometry x="0.8319" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
