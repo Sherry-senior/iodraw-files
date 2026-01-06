@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="344" width="80" height="34" as="geometry" />
+          <mxGeometry x="655" y="343" width="80" height="34" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-34" target="UntIqX0__Dm75MM4-y4_-59">
           <mxGeometry relative="1" as="geometry" />
@@ -269,23 +269,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="535" y="458" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="615" y="458" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="460" width="75" height="36" as="geometry" />
+          <mxGeometry x="775" y="459" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="721" y="460" width="75" height="36" as="geometry" />
+          <mxGeometry x="696" y="459" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-58" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="702" y="319" as="sourcePoint" />
-            <mxPoint x="721" y="343" as="targetPoint" />
+            <mxPoint x="677" y="323" as="sourcePoint" />
+            <mxPoint x="696" y="347" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="721" y="319" />
+              <mxPoint x="696" y="323" />
             </Array>
           </mxGeometry>
         </mxCell>
