@@ -156,8 +156,14 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="680" y="401" />
+              <mxPoint x="818" y="401" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="641" y="366" width="80" height="34" as="geometry" />
