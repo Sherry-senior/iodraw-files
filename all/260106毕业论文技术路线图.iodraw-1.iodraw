@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-9" value="免疫抑制小鼠" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="408" y="172" width="80" height="29" as="geometry" />
+          <mxGeometry x="487" y="172" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-10" value="多糖总含量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="102" y="260" width="80" height="30" as="geometry" />
@@ -72,7 +72,7 @@
             <mxPoint x="230" y="101" as="sourcePoint" />
             <mxPoint x="350" y="101" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="447" y="101" />
+              <mxPoint x="527" y="101" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="871" y="183.91666666666663" as="targetPoint" />
+            <mxPoint x="950" y="183.91666666666663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-5">
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-21" value="环磷酰胺" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="573" y="172" width="68" height="30" as="geometry" />
+          <mxGeometry x="652" y="172" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -251,21 +251,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-10" value="毒性靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="871" y="170" width="70" height="31" as="geometry" />
+          <mxGeometry x="950" y="170" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-11" value="通路-毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="711" y="232" width="85" height="29" as="geometry" />
+          <mxGeometry x="790" y="232" width="85" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21" target="UntIqX0__Dm75MM4-y4_-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="621" y="270" as="sourcePoint" />
-            <mxPoint x="671" y="220" as="targetPoint" />
+            <mxPoint x="700" y="270" as="sourcePoint" />
+            <mxPoint x="750" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-11" target="UntIqX0__Dm75MM4-y4_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="821" y="270" as="sourcePoint" />
-            <mxPoint x="871" y="220" as="targetPoint" />
+            <mxPoint x="900" y="270" as="sourcePoint" />
+            <mxPoint x="950" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-17" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -307,7 +307,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-69" value="粪便" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="421.5" y="590" width="50" height="20" as="geometry" />
+          <mxGeometry x="1013.5" y="346" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-70" target="UntIqX0__Dm75MM4-y4_-71">
           <mxGeometry relative="1" as="geometry" />
@@ -316,13 +316,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-70" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="650" width="123" height="30" as="geometry" />
+          <mxGeometry x="977" y="406" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-71" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="710" width="90" height="30" as="geometry" />
+          <mxGeometry x="950" y="466" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-72" value="功能预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="458" y="710" width="81" height="30" as="geometry" />
+          <mxGeometry x="1050" y="466" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-80" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="40" y="493" width="890" height="30" as="geometry" />
