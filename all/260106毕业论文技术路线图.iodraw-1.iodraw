@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-1" value="生党参" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-1" value="&lt;b&gt;生党参&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-2" value="熟党参" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
