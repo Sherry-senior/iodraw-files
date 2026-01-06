@@ -310,9 +310,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-70" target="UntIqX0__Dm75MM4-y4_-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-70" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="918" y="420" width="123" height="30" as="geometry" />
         </mxCell>
