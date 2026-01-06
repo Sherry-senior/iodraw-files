@@ -301,6 +301,11 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-69" target="UntIqX0__Dm75MM4-y4_-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UntIqX0__Dm75MM4-y4_-74" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-73">
+          <mxGeometry x="0.0746" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-69" value="粪便" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="407" y="580" width="63" height="30" as="geometry" />
         </mxCell>
