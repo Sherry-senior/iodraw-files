@@ -285,10 +285,15 @@
             <mxPoint x="830" y="259" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="830" y="300" />
-              <mxPoint x="1081" y="300" />
-              <mxPoint x="1081" y="728" />
+              <mxPoint x="1110" y="300" />
+              <mxPoint x="1110" y="728" />
               <mxPoint x="402" y="728" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5XlcRj4ZRUCD5dpkkbe-45" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5XlcRj4ZRUCD5dpkkbe-43">
+          <mxGeometry x="0.3032" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-11" value="通路及毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
