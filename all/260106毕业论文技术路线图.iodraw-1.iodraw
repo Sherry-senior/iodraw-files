@@ -217,7 +217,7 @@
           <mxGeometry x="870" y="170" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-11" value="通路-毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="865" y="261" width="85" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
