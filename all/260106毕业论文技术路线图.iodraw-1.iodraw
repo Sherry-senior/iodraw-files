@@ -310,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-69" value="粪便" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="590" width="50" height="20" as="geometry" />
+          <mxGeometry x="421.5" y="590" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-70" target="UntIqX0__Dm75MM4-y4_-71">
           <mxGeometry relative="1" as="geometry" />
@@ -319,13 +319,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-70" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="650" width="123" height="30" as="geometry" />
+          <mxGeometry x="385" y="650" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-71" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="710" width="90" height="30" as="geometry" />
+          <mxGeometry x="358" y="710" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-72" value="功能预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="710" width="81" height="30" as="geometry" />
+          <mxGeometry x="458" y="710" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-80" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="40" y="493" width="890" height="30" as="geometry" />
