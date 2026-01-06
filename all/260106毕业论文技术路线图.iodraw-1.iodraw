@@ -70,8 +70,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-9" target="UntIqX0__Dm75MM4-y4_-69">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-9">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="346" as="targetPoint" />
             <Array as="points">
               <mxPoint x="527" y="320" />
               <mxPoint x="980" y="320" />
@@ -311,16 +312,15 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-62" value="免疫炎症因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="457" width="78" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-69" target="UntIqX0__Dm75MM4-y4_-70">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980.0588235294117" y="366" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-74" value="16S rRNA测序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UntIqX0__Dm75MM4-y4_-73">
           <mxGeometry x="0.0746" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-69" value="粪便" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="346" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UntIqX0__Dm75MM4-y4_-70" target="UntIqX0__Dm75MM4-y4_-71">
           <mxGeometry relative="1" as="geometry" />
