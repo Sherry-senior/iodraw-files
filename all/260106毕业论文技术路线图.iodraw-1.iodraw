@@ -211,13 +211,7 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-11" value="通路-毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="232" width="85" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#FF6666;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-21" target="UntIqX0__Dm75MM4-y4_-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="606" y="210" as="sourcePoint" />
-            <mxPoint x="650" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-10">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="250" as="sourcePoint" />
             <mxPoint x="840" y="200" as="targetPoint" />
