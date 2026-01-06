@@ -94,6 +94,9 @@
         <mxCell id="xeAVBhwWFny6fkCm9ETM-19" value="&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;党参炔苷、苍术内酯Ⅲ、5-HMF&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="259" width="90" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="xeAVBhwWFny6fkCm9ETM-20" value="醇溶性浸出物" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="196" y="261" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-21" target="xeAVBhwWFny6fkCm9ETM-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -137,11 +140,6 @@
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xeAVBhwWFny6fkCm9ETM-32" target="xeAVBhwWFny6fkCm9ETM-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="236.04347826086973" y="291" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="347" width="75" height="29" as="geometry" />
