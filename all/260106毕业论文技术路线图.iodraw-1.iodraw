@@ -150,38 +150,6 @@
             <mxPoint x="242" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="400" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="740" y="430" />
-              <mxPoint x="698" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="353" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="740" y="423" />
-              <mxPoint x="618" y="423" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="UntIqX0__Dm75MM4-y4_-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="351" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="740" y="423" />
-              <mxPoint x="858" y="423" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-33" value="肠黏膜损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="364" width="80" height="34" as="geometry" />
         </mxCell>
@@ -255,17 +223,6 @@
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="468" width="75" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="351" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="740" y="400" />
-              <mxPoint x="741" y="400" />
-              <mxPoint x="741" y="420" />
-              <mxPoint x="779" y="420" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
