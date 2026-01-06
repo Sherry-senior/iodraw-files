@@ -268,7 +268,7 @@
         <mxCell id="UntIqX0__Dm75MM4-y4_-18" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="477" width="75" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UntIqX0__Dm75MM4-y4_-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="777" y="477" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -287,8 +287,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UntIqX0__Dm75MM4-y4_-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="548" width="50" height="30" as="geometry" />
+        <mxCell id="UntIqX0__Dm75MM4-y4_-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;免疫及炎症因子水平&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="590" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
