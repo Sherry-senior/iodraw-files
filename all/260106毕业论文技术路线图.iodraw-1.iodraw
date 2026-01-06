@@ -237,21 +237,6 @@
         <mxCell id="xeAVBhwWFny6fkCm9ETM-34" value="肺损伤" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="351" y="346" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="xeAVBhwWFny6fkCm9ETM-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="44.46666666666647" y="436" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="xeAVBhwWFny6fkCm9ETM-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="123.5333333333333" y="436" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xeAVBhwWFny6fkCm9ETM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="xeAVBhwWFny6fkCm9ETM-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205.5333333333333" y="436" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-45" value="体重&lt;div&gt;食量&lt;/div&gt;&lt;div&gt;精神&lt;/div&gt;&lt;div&gt;粪便&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14" y="456" width="61" height="60" as="geometry" />
         </mxCell>
