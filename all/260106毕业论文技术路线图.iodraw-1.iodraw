@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-32" value="免疫抑制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="89" y="347" width="75" height="29" as="geometry" />
+          <mxGeometry x="86" y="347" width="75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="UntIqX0__Dm75MM4-y4_-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xeAVBhwWFny6fkCm9ETM-33" target="UntIqX0__Dm75MM4-y4_-18">
           <mxGeometry relative="1" as="geometry" />
@@ -238,37 +238,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-42" value="一般情况" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17" y="406" width="61" height="30" as="geometry" />
+          <mxGeometry x="14" y="406" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-43" target="xeAVBhwWFny6fkCm9ETM-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-43" value="免疫器官" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="96" y="406" width="61" height="30" as="geometry" />
+          <mxGeometry x="93" y="406" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xeAVBhwWFny6fkCm9ETM-44" target="xeAVBhwWFny6fkCm9ETM-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-44" value="血清" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="178" y="406" width="61" height="30" as="geometry" />
+          <mxGeometry x="175" y="406" width="61" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-45" value="体重&lt;div&gt;食量&lt;/div&gt;&lt;div&gt;精神&lt;/div&gt;&lt;div&gt;粪便&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17" y="456" width="61" height="60" as="geometry" />
+          <mxGeometry x="14" y="456" width="61" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-46" value="脏器指数&lt;div&gt;H&amp;amp;E染色&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="96" y="456" width="62" height="60" as="geometry" />
+          <mxGeometry x="93" y="456" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-47" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="178" y="456" width="62" height="60" as="geometry" />
+          <mxGeometry x="175" y="456" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xeAVBhwWFny6fkCm9ETM-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xeAVBhwWFny6fkCm9ETM-42" target="xeAVBhwWFny6fkCm9ETM-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="45.75" y="386" as="sourcePoint" />
-            <mxPoint x="208" y="386" as="targetPoint" />
+            <mxPoint x="42.75" y="386" as="sourcePoint" />
+            <mxPoint x="205" y="386" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="48" y="386" />
-              <mxPoint x="148" y="386" />
-              <mxPoint x="209" y="386" />
+              <mxPoint x="45" y="386" />
+              <mxPoint x="145" y="386" />
+              <mxPoint x="206" y="386" />
             </Array>
           </mxGeometry>
         </mxCell>
