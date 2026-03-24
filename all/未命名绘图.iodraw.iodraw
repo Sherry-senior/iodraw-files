@@ -362,8 +362,10 @@
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-32" value="&lt;b&gt;免疫抑制小鼠&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="-348" width="80" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-41" target="pBPiiuL6Pf1OYpwkVJSH-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.5" y="266.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-37" value="造模" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-36">
           <mxGeometry x="0.1071" relative="1" as="geometry">
@@ -372,7 +374,7 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="-336.08333333333337" as="targetPoint" />
+            <mxPoint x="743.5" y="263.91666666666663" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-38">
@@ -386,7 +388,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-41" value="&lt;b&gt;环磷酰胺&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="712" y="-348" width="68" height="30" as="geometry" />
+          <mxGeometry x="445.5" y="252" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-46" target="pBPiiuL6Pf1OYpwkVJSH-64">
           <mxGeometry relative="1" as="geometry">
@@ -494,10 +496,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-69" value="毒性靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-350" width="70" height="31" as="geometry" />
+          <mxGeometry x="743.5" y="250" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-70" value="通路及毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="843" y="-291" width="100" height="30" as="geometry" />
+          <mxGeometry x="576.5" y="309" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-71" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="603" y="-62" width="75" height="36" as="geometry" />
@@ -605,14 +607,14 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-96" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="-270" as="sourcePoint" />
-            <mxPoint x="750" y="-320" as="targetPoint" />
+            <mxPoint x="433.5" y="330" as="sourcePoint" />
+            <mxPoint x="483.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-97" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="-270" as="sourcePoint" />
-            <mxPoint x="1040" y="-320" as="targetPoint" />
+            <mxPoint x="723.5" y="330" as="sourcePoint" />
+            <mxPoint x="773.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
