@@ -34,7 +34,7 @@
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-21" value="HPLC测定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WkDKmHPBQUjKDxabuBos-9">
           <mxGeometry x="0.6758" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-13" target="WkDKmHPBQUjKDxabuBos-14">
@@ -57,7 +57,7 @@
           <mxGeometry x="350" y="256" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-15" value="&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;党参炔苷、苍术内酯Ⅲ、5-HMF&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="90" height="31" as="geometry" />
+          <mxGeometry x="480" y="255.5" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-16" value="醇溶性浸出物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="256" width="80" height="30" as="geometry" />
