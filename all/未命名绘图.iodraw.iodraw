@@ -77,6 +77,12 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-26" value="粉末显微" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="256" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
