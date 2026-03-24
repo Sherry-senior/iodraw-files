@@ -32,11 +32,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-21" value="HPLC测定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WkDKmHPBQUjKDxabuBos-9">
+          <mxGeometry x="0.6758" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-13" target="WkDKmHPBQUjKDxabuBos-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="190" />
-              <mxPoint x="370" y="190" />
+              <mxPoint x="430" y="180" />
+              <mxPoint x="370" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
