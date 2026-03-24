@@ -417,14 +417,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-55" target="pBPiiuL6Pf1OYpwkVJSH-73">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-54" value="EILSA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-53">
-          <mxGeometry x="0.746" y="-4" relative="1" as="geometry">
-            <mxPoint x="-3" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-55" value="&lt;b&gt;肠黏膜损伤&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-167" width="73" height="27" as="geometry" />
         </mxCell>
@@ -496,9 +488,6 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-72" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="793" y="-59" width="75" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-73" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="953" y="-58" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-74" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="874" y="-58" width="75" height="36" as="geometry" />
