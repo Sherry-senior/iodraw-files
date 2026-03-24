@@ -193,6 +193,12 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-62" value="气味" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="761.75" y="305" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="280" as="sourcePoint" />
+            <mxPoint x="780" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
