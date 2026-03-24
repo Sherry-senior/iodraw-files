@@ -349,16 +349,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="-174" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="587" y="-200" />
-              <mxPoint x="1040" y="-200" />
-              <mxPoint x="1040" y="-174" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-32" value="&lt;b&gt;免疫抑制小鼠&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="-348" width="80" height="29" as="geometry" />
         </mxCell>
@@ -573,23 +563,6 @@
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-89" value="&lt;b&gt;粪便&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="562" y="130" width="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;strokeColor=#FF6666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-93">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="-15" as="targetPoint" />
-            <mxPoint x="973" y="70" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="983" y="61" />
-              <mxPoint x="990" y="61" />
-              <mxPoint x="990" y="82" />
-              <mxPoint x="490" y="82" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-91" value="相关性分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-90">
-          <mxGeometry x="-0.0172" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-92" value="相关KEGG通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="606" y="334" width="90" height="30" as="geometry" />
         </mxCell>
@@ -601,9 +574,6 @@
             <mxPoint x="581" y="296.5" as="sourcePoint" />
             <mxPoint x="602" y="296.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-95" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="65" y="-27" width="864" height="12" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-96" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
