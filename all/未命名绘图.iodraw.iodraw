@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17" pages="2">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uZl8_0j7mcRtiDhdSPVN">
     <mxGraphModel dx="1413" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -322,13 +322,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="10" y="390" width="852" height="110" as="geometry" />
+          <mxGeometry x="53" y="180" width="852" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-27" target="pBPiiuL6Pf1OYpwkVJSH-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="221" />
-              <mxPoint x="45" y="221" />
+              <mxPoint x="183" y="11" />
+              <mxPoint x="88" y="11" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -346,54 +346,54 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-27" value="&lt;b&gt;主要化学成分变化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="171" width="100" height="30" as="geometry" />
+          <mxGeometry x="133" y="-39" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32" target="pBPiiuL6Pf1OYpwkVJSH-62">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="446.79999999999995" y="360" as="targetPoint" />
+            <mxPoint x="489.79999999999995" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="527" y="320" />
-              <mxPoint x="390" y="320" />
+              <mxPoint x="570" y="110" />
+              <mxPoint x="433" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32" target="pBPiiuL6Pf1OYpwkVJSH-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="527" y="320" />
-              <mxPoint x="126" y="320" />
+              <mxPoint x="570" y="110" />
+              <mxPoint x="169" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32" target="pBPiiuL6Pf1OYpwkVJSH-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="527" y="320" />
-              <mxPoint x="703" y="320" />
+              <mxPoint x="570" y="110" />
+              <mxPoint x="746" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980" y="346" as="targetPoint" />
+            <mxPoint x="1023" y="136" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="527" y="320" />
-              <mxPoint x="980" y="320" />
-              <mxPoint x="980" y="346" />
+              <mxPoint x="570" y="110" />
+              <mxPoint x="1023" y="110" />
+              <mxPoint x="1023" y="136" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-32" value="&lt;b&gt;免疫抑制小鼠&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="172" width="80" height="29" as="geometry" />
+          <mxGeometry x="530" y="-38" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-33" value="多糖总含量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="102" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="145" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-34" value="&lt;span style=&quot;color: rgb(50, 50, 50); background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;党参炔苷、苍术内酯Ⅲ、5-HMF&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="259" width="90" height="31" as="geometry" />
+          <mxGeometry x="43" y="49" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-35" value="醇溶性浸出物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="196" y="261" width="80" height="30" as="geometry" />
+          <mxGeometry x="239" y="51" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-41" target="pBPiiuL6Pf1OYpwkVJSH-32">
           <mxGeometry relative="1" as="geometry" />
@@ -405,7 +405,7 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="183.91666666666663" as="targetPoint" />
+            <mxPoint x="993" y="-26.08333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-38">
@@ -419,15 +419,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-41" value="&lt;b&gt;环磷酰胺&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="652" y="172" width="68" height="30" as="geometry" />
+          <mxGeometry x="695" y="-38" width="68" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="201" as="sourcePoint" />
-            <mxPoint x="236.86" y="263.01" as="targetPoint" />
+            <mxPoint x="183" y="-9" as="sourcePoint" />
+            <mxPoint x="279.86" y="53.00999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="221" />
-              <mxPoint x="237" y="221" />
+              <mxPoint x="183" y="11" />
+              <mxPoint x="280" y="11" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -438,7 +438,7 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-46" target="pBPiiuL6Pf1OYpwkVJSH-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="123.5" y="406" as="targetPoint" />
+            <mxPoint x="166.5" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-45" value="免疫器官" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-44">
@@ -447,7 +447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-46" value="&lt;b&gt;免疫抑制&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="86" y="347" width="75" height="29" as="geometry" />
+          <mxGeometry x="129" y="137" width="75" height="29" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-55" target="pBPiiuL6Pf1OYpwkVJSH-72">
           <mxGeometry relative="1" as="geometry" />
@@ -482,7 +482,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-55" value="&lt;b&gt;肠黏膜损伤&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="350" width="73" height="27" as="geometry" />
+          <mxGeometry x="713" y="140" width="73" height="27" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-62" target="pBPiiuL6Pf1OYpwkVJSH-75">
           <mxGeometry relative="1" as="geometry" />
@@ -509,25 +509,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-62" value="&lt;b&gt;肺损伤&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="350" width="79" height="26" as="geometry" />
+          <mxGeometry x="394" y="140" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-63" value="体重&lt;div&gt;食量&lt;/div&gt;&lt;div&gt;精神&lt;/div&gt;&lt;div&gt;粪便&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="433" width="61" height="60" as="geometry" />
+          <mxGeometry x="57" y="223" width="61" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-64" value="脏器指数&lt;div&gt;H&amp;amp;E染色&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="93" y="433" width="62" height="60" as="geometry" />
+          <mxGeometry x="136" y="223" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-65" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="173" y="433" width="62" height="60" as="geometry" />
+          <mxGeometry x="216" y="223" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="43.35" y="433" as="sourcePoint" />
-            <mxPoint x="204" y="424.5" as="targetPoint" />
+            <mxPoint x="86.35" y="223" as="sourcePoint" />
+            <mxPoint x="247" y="214.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="43" y="400.5" />
-              <mxPoint x="143" y="400.5" />
-              <mxPoint x="204" y="400" />
+              <mxPoint x="86" y="190.5" />
+              <mxPoint x="186" y="190.5" />
+              <mxPoint x="247" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -542,35 +542,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-69" value="毒性靶点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="170" width="70" height="31" as="geometry" />
+          <mxGeometry x="993" y="-40" width="70" height="31" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-70" value="通路及毒性表型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="783" y="229" width="100" height="30" as="geometry" />
+          <mxGeometry x="826" y="19" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-71" value="组织形态学" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543" y="458" width="75" height="36" as="geometry" />
+          <mxGeometry x="586" y="248" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-72" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623" y="458" width="75" height="36" as="geometry" />
+          <mxGeometry x="666" y="248" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-73" value="免疫及炎症因子水平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="783" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="826" y="249" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-74" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="704" y="459" width="75" height="36" as="geometry" />
+          <mxGeometry x="747" y="249" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-75" value="促纤维化通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347" y="457" width="87" height="36" as="geometry" />
+          <mxGeometry x="390" y="247" width="87" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-76" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;组织形态学&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="457" width="80" height="36" as="geometry" />
+          <mxGeometry x="297" y="247" width="80" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-77" value="免疫炎症因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446" y="457" width="78" height="36" as="geometry" />
+          <mxGeometry x="489" y="247" width="78" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980.0588235294117" y="366" as="sourcePoint" />
+            <mxPoint x="1023.0588235294117" y="156" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-79" value="16S rRNA测序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-78">
@@ -581,20 +581,20 @@
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-81" target="pBPiiuL6Pf1OYpwkVJSH-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="460" />
-              <mxPoint x="920" y="460" />
+              <mxPoint x="1023" y="250" />
+              <mxPoint x="963" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-81" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="918" y="420" width="123" height="30" as="geometry" />
+          <mxGeometry x="961" y="210" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-88">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="980" y="450" as="sourcePoint" />
+            <mxPoint x="1023" y="240" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="980" y="460" />
-              <mxPoint x="1040" y="460" />
+              <mxPoint x="1023" y="250" />
+              <mxPoint x="1083" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -602,7 +602,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-84" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="878" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="921" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-88" target="pBPiiuL6Pf1OYpwkVJSH-92">
           <mxGeometry relative="1" as="geometry" />
@@ -614,20 +614,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-88" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;PICRUSt2功能预测&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995.75" y="500" width="86.5" height="30" as="geometry" />
+          <mxGeometry x="1038.75" y="290" width="86.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-89" value="&lt;b&gt;粪便&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="348" width="60" height="26" as="geometry" />
+          <mxGeometry x="993" y="138" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;strokeColor=#FF6666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="505" as="targetPoint" />
-            <mxPoint x="913" y="590" as="sourcePoint" />
+            <mxPoint x="473" y="295" as="targetPoint" />
+            <mxPoint x="956" y="380" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="923" y="581" />
-              <mxPoint x="930" y="581" />
-              <mxPoint x="930" y="602" />
-              <mxPoint x="430" y="602" />
+              <mxPoint x="966" y="371" />
+              <mxPoint x="973" y="371" />
+              <mxPoint x="973" y="392" />
+              <mxPoint x="473" y="392" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -637,40 +637,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-92" value="相关KEGG通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="994" y="552" width="90" height="30" as="geometry" />
+          <mxGeometry x="1037" y="342" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-93" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;生物功能分析&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="550" width="81" height="30" as="geometry" />
+          <mxGeometry x="925.5" y="340" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-94" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="969" y="514.5" as="sourcePoint" />
-            <mxPoint x="990" y="514.5" as="targetPoint" />
+            <mxPoint x="1012" y="304.5" as="sourcePoint" />
+            <mxPoint x="1033" y="304.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-95" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="5" y="493" width="864" height="12" as="geometry" />
+          <mxGeometry x="48" y="283" width="864" height="12" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-96" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="250" as="sourcePoint" />
-            <mxPoint x="690" y="200" as="targetPoint" />
+            <mxPoint x="683" y="40" as="sourcePoint" />
+            <mxPoint x="733" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-97" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="250" as="sourcePoint" />
-            <mxPoint x="980" y="200" as="targetPoint" />
+            <mxPoint x="973" y="40" as="sourcePoint" />
+            <mxPoint x="1023" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="F5asED4uq35tFuPfKPjw" name="第 2 页">
-    <mxGraphModel dx="1413" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
