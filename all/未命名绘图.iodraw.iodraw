@@ -16,6 +16,9 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生党参&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="70" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-3" target="WkDKmHPBQUjKDxabuBos-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;熟党参&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="70" width="60" height="30" as="geometry" />
         </mxCell>
