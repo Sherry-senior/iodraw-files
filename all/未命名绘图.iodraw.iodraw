@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-53" value="炮制时间：0 h（生品）、0.25 h、1 h、2 h、4 h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="172" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="160" width="270" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
