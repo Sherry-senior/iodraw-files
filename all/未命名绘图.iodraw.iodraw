@@ -60,7 +60,7 @@
           <mxGeometry x="480" y="230" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-16" value="醇溶性浸出物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227" y="259" width="80" height="30" as="geometry" />
+          <mxGeometry x="227" y="256" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-14" target="WkDKmHPBQUjKDxabuBos-14">
           <mxGeometry relative="1" as="geometry" />
@@ -69,13 +69,13 @@
           <mxGeometry x="170" y="140" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-24" value="水分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227" y="209" width="80" height="30" as="geometry" />
+          <mxGeometry x="227" y="206" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-25" value="外观" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="209" width="80" height="30" as="geometry" />
+          <mxGeometry x="137" y="206" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-26" value="粉末显微" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="259" width="80" height="30" as="geometry" />
+          <mxGeometry x="137" y="256" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
