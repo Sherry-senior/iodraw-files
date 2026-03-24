@@ -170,10 +170,10 @@
           <mxGeometry x="910" y="221" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-58" value="电子鼻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="283" width="70" height="30" as="geometry" />
+          <mxGeometry x="873" y="283" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-59" value="电子眼" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="283" width="70" height="30" as="geometry" />
+          <mxGeometry x="973" y="283" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-60" value="表面颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="282" width="70" height="30" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="692.5" y="282" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-62" value="气味" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="282" width="70" height="30" as="geometry" />
+          <mxGeometry x="776" y="282" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
