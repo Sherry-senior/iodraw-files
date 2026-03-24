@@ -65,6 +65,12 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-14" target="WkDKmHPBQUjKDxabuBos-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-23" target="WkDKmHPBQUjKDxabuBos-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-23" target="WkDKmHPBQUjKDxabuBos-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-23" value="外观性状及其他" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="140" width="90" height="30" as="geometry" />
         </mxCell>
@@ -78,6 +84,12 @@
           <mxGeometry x="137" y="256" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="430" as="sourcePoint" />
             <mxPoint x="610" y="380" as="targetPoint" />
