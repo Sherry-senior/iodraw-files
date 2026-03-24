@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-56" value="人工经验评分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="238" width="80" height="32" as="geometry" />
+          <mxGeometry x="677.5" y="239" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-57" value="智能感官技术" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="910" y="239" width="80" height="32" as="geometry" />
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-62" value="气味" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="776" y="282" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-60" target="WkDKmHPBQUjKDxabuBos-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
