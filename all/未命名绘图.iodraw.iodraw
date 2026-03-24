@@ -313,6 +313,9 @@
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-17" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: 黑体; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;熟党参的质量评价&lt;/font&gt;初步&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;研究&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="-810" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
