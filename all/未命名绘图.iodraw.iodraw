@@ -83,10 +83,16 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-26" value="粉末显微" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="256" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WkDKmHPBQUjKDxabuBos-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-26">
+        <mxCell id="WkDKmHPBQUjKDxabuBos-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-26" target="WkDKmHPBQUjKDxabuBos-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="290" as="sourcePoint" />
             <mxPoint x="180" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187" y="266" as="sourcePoint" />
+            <mxPoint x="187" y="246" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
