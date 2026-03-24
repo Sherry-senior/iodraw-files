@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WkDKmHPBQUjKDxabuBos-1" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="366" y="-490" width="280" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-2" target="WkDKmHPBQUjKDxabuBos-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -312,6 +309,9 @@
             <mxPoint x="80" y="-93" as="sourcePoint" />
             <mxPoint x="989" y="-92" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-17" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: 黑体; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;熟党参的质量评价&lt;/font&gt;初步&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;研究&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-500" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
