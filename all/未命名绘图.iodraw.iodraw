@@ -401,7 +401,7 @@
             <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-55" target="pBPiiuL6Pf1OYpwkVJSH-74">
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-55" target="pBPiiuL6Pf1OYpwkVJSH-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-50" value="IHC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-49">
