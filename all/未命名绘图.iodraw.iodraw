@@ -166,8 +166,11 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-56" value="人工经验评分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="220" width="80" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="WkDKmHPBQUjKDxabuBos-57" value="智能感官技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WkDKmHPBQUjKDxabuBos-57" value="智能感官技术" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="830" y="220" width="80" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
