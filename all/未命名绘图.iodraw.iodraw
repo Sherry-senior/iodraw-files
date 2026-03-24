@@ -169,6 +169,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WkDKmHPBQUjKDxabuBos-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-56" target="WkDKmHPBQUjKDxabuBos-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-56" value="人工经验评分" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="677.5" y="239" width="80" height="31" as="geometry" />
         </mxCell>
