@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="uZl8_0j7mcRtiDhdSPVN">
-    <mxGraphModel dx="1413" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="2424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,11 +310,8 @@
             <mxPoint x="1039" y="-422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-17" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: 黑体; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;熟党参的质量评价&lt;/font&gt;初步&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;研究&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-810" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-700" width="120" height="60" as="geometry" />
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-18" value="&lt;b style=&quot;font-family: 黑体; font-size: 18px;&quot;&gt;熟党参的质量评价初步研究&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
