@@ -47,7 +47,7 @@
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-20" value="苯酚-硫酸法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WkDKmHPBQUjKDxabuBos-11">
           <mxGeometry x="0.5776" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-13" value="&lt;b&gt;主要化学成分变化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,15 +78,15 @@
           <mxGeometry x="227" y="206" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-25" value="外观" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="206" width="80" height="30" as="geometry" />
+          <mxGeometry x="128" y="206" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-26" value="粉末显微" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="256" width="80" height="30" as="geometry" />
+          <mxGeometry x="128" y="256" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WkDKmHPBQUjKDxabuBos-26" target="WkDKmHPBQUjKDxabuBos-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="290" as="sourcePoint" />
-            <mxPoint x="180" y="240" as="targetPoint" />
+            <mxPoint x="121" y="290" as="sourcePoint" />
+            <mxPoint x="171" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
