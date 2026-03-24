@@ -524,7 +524,7 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040.0588235294117" y="-154" as="sourcePoint" />
+            <mxPoint x="1062.0588235294117" y="34" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-79" value="16S rRNA测序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBPiiuL6Pf1OYpwkVJSH-78">
@@ -535,20 +535,20 @@
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-81" target="pBPiiuL6Pf1OYpwkVJSH-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="-60" />
-              <mxPoint x="980" y="-60" />
+              <mxPoint x="1062" y="128" />
+              <mxPoint x="1002" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-81" value="肠道菌群物种多样性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="978" y="-100" width="123" height="30" as="geometry" />
+          <mxGeometry x="1000" y="88" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-88">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="-70" as="sourcePoint" />
+            <mxPoint x="1062" y="118" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1040" y="-60" />
-              <mxPoint x="1100" y="-60" />
+              <mxPoint x="1062" y="128" />
+              <mxPoint x="1122" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -556,7 +556,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-84" value="差异性优势菌群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="938" y="-20" width="90" height="30" as="geometry" />
+          <mxGeometry x="960" y="168" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-88" target="pBPiiuL6Pf1OYpwkVJSH-92">
           <mxGeometry relative="1" as="geometry" />
@@ -568,10 +568,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-88" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;PICRUSt2功能预测&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1055.75" y="-20" width="86.5" height="30" as="geometry" />
+          <mxGeometry x="1077.75" y="168" width="86.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-89" value="&lt;b&gt;粪便&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-172" width="60" height="26" as="geometry" />
+          <mxGeometry x="1032" y="16" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#FF6666;strokeColor=#FF6666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-93">
           <mxGeometry relative="1" as="geometry">
@@ -591,15 +591,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-92" value="相关KEGG通路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1054" y="32" width="90" height="30" as="geometry" />
+          <mxGeometry x="1076" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-93" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#0f1115&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;生物功能分析&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="942.5" y="30" width="81" height="30" as="geometry" />
+          <mxGeometry x="964.5" y="218" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-94" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1029" y="-5.5" as="sourcePoint" />
-            <mxPoint x="1050" y="-5.5" as="targetPoint" />
+            <mxPoint x="1051" y="182.5" as="sourcePoint" />
+            <mxPoint x="1072" y="182.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-95" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#FF6666;" vertex="1" parent="1">
