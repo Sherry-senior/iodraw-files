@@ -327,8 +327,10 @@
         <mxCell id="6mWAGwsRyMk9h3qwTmpL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32" target="pBPiiuL6Pf1OYpwkVJSH-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6mWAGwsRyMk9h3qwTmpL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-32" target="pBPiiuL6Pf1OYpwkVJSH-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6mWAGwsRyMk9h3qwTmpL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" target="pBPiiuL6Pf1OYpwkVJSH-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="561" y="-260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-32" value="&lt;b&gt;免疫抑制小鼠&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="521" y="-330" width="80" height="29" as="geometry" />
