@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-32" value="&lt;b&gt;免疫抑制小鼠&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="-348" width="80" height="29" as="geometry" />
+          <mxGeometry x="490" y="-370" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-41">
           <mxGeometry relative="1" as="geometry">
@@ -487,7 +487,7 @@
           <mxGeometry x="740.5" y="-60" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-72" value="肠黏膜通透性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="838" y="-59" width="75" height="36" as="geometry" />
+          <mxGeometry x="838" y="-61" width="75" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-74" value="肠黏膜蛋白" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935.25" y="-60" width="75" height="36" as="geometry" />
