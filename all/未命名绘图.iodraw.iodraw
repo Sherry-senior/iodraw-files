@@ -55,7 +55,7 @@
           <mxGeometry x="290" y="218" width="90" height="31" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-16" value="醇溶性浸出物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="170" y="219" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WkDKmHPBQUjKDxabuBos-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
