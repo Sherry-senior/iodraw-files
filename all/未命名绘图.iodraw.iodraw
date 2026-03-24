@@ -71,8 +71,8 @@
         <mxCell id="WkDKmHPBQUjKDxabuBos-24" value="水分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WkDKmHPBQUjKDxabuBos-25" value="水分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="220" width="80" height="30" as="geometry" />
+        <mxCell id="WkDKmHPBQUjKDxabuBos-25" value="外观" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
