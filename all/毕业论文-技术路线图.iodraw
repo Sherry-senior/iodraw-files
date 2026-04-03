@@ -558,11 +558,6 @@
             <mxPoint x="433.24999999999955" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Z94L07qoZP3k3GkAm2-52" value="文献/数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pBPiiuL6Pf1OYpwkVJSH-83" vertex="1" connectable="0">
-          <mxGeometry x="-0.1055" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-84" value="差异性菌群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="389.75" y="291" width="89" height="30" as="geometry" />
         </mxCell>
