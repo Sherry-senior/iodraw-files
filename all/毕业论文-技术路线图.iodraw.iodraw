@@ -754,7 +754,7 @@
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-88" value="相关性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" parent="E3Z94L07qoZP3k3GkAm2-87" vertex="1" connectable="0">
           <mxGeometry x="0.1947" y="3" relative="1" as="geometry">
-            <mxPoint x="3" y="-22" as="offset" />
+            <mxPoint x="3" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E3Z94L07qoZP3k3GkAm2-91" target="E3Z94L07qoZP3k3GkAm2-92" edge="1">
@@ -898,7 +898,7 @@
           <mxGeometry x="736.7800000000001" y="873" width="80" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="MgU7wcxYq5NhQ36wDYa4-1" value="”肺-肠“轴" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="70" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
