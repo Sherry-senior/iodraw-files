@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0" version="24.7.17">
   <diagram name="第 1 页" id="wlWguwdziPE9DGvUnhbD">
-    <mxGraphModel dx="973" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,15 @@
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PIK3CA&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F8CECC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="80" y="242" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j-2PX5P7WAD9clH1wewm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;endArrow=open;endFill=0;" edge="1" parent="1" source="j-2PX5P7WAD9clH1wewm-7" target="j-2PX5P7WAD9clH1wewm-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="697.4712503367457" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252" y="600" />
+              <mxPoint x="438" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MTOR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F8CECC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="217" y="434" width="70" height="40" as="geometry" />
@@ -141,7 +150,7 @@
           <mxGeometry x="335" y="292" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-53" value="促凋亡/抑增殖" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="394.5" y="540" width="87" height="30" as="geometry" />
+          <mxGeometry x="480" y="505" width="87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
