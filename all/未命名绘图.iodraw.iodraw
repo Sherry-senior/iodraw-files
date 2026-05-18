@@ -16,6 +16,12 @@
         <mxCell id="j-2PX5P7WAD9clH1wewm-4" value="生长因子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="j-2PX5P7WAD9clH1wewm-5" value="PIK3R1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j-2PX5P7WAD9clH1wewm-6" value="PIK3CA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
