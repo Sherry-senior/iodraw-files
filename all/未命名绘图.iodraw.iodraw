@@ -49,9 +49,6 @@
         <mxCell id="j-2PX5P7WAD9clH1wewm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="j-2PX5P7WAD9clH1wewm-9" target="j-2PX5P7WAD9clH1wewm-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j-2PX5P7WAD9clH1wewm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="j-2PX5P7WAD9clH1wewm-9" target="j-2PX5P7WAD9clH1wewm-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AKT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F8CECC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="217" y="355" width="70" height="40" as="geometry" />
         </mxCell>
@@ -103,6 +100,15 @@
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-38" value="&lt;span class=&quot;&quot;&gt;调节亚基 p85α&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="65" y="339" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j-2PX5P7WAD9clH1wewm-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j-2PX5P7WAD9clH1wewm-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j-2PX5P7WAD9clH1wewm-41" value="磷酸化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="300" y="358" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
