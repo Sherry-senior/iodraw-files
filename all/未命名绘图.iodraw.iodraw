@@ -8,24 +8,27 @@
           <mxGeometry x="590" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-2" value="胞外刺激" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="70" height="50" as="geometry" />
+          <mxGeometry x="105" y="80" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-3" value="细胞因子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="70" height="50" as="geometry" />
+          <mxGeometry x="205" y="80" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-4" value="生长因子" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="70" height="50" as="geometry" />
+          <mxGeometry x="295" y="80" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-5" value="PIK3R1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="70" height="40" as="geometry" />
+          <mxGeometry x="270" y="260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-6" value="PIK3CA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="70" height="40" as="geometry" />
+          <mxGeometry x="140" y="260" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-7" value="PI3K" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="330" width="70" height="40" as="geometry" />
+          <mxGeometry x="380" y="390" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j-2PX5P7WAD9clH1wewm-8" value="RKT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j-2PX5P7WAD9clH1wewm-9" value="AKT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
