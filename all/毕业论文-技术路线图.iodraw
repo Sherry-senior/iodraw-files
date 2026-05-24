@@ -527,24 +527,24 @@
         </mxCell>
         <mxCell id="btoe_EH5wYBV6DnWIyCJ-2" value="OPLS-DA&amp;amp;LEfes分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="btoe_EH5wYBV6DnWIyCJ-1" vertex="1" connectable="0">
           <mxGeometry x="0.1021" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-81" value="肠道菌群群落组成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="508.25" y="190" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-84" edge="1">
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-84" edge="1" target="E3Z94L07qoZP3k3GkAm2-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="568.9999999999995" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-52" value="文献/数据库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pBPiiuL6Pf1OYpwkVJSH-83" vertex="1" connectable="0">
           <mxGeometry x="-0.1055" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-84" value="差异性菌群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="525.5" y="271" width="89" height="30" as="geometry" />
+          <mxGeometry x="525.5" y="255" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-89" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -662,8 +662,8 @@
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="409" as="sourcePoint" />
-            <mxPoint x="880" y="409" as="targetPoint" />
+            <mxPoint x="280" y="370" as="sourcePoint" />
+            <mxPoint x="880" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF9933;" parent="1" edge="1">
@@ -703,14 +703,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-64" value="生物功能分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
-          <mxGeometry x="525.5" y="340" width="90" height="30" as="geometry" />
+          <mxGeometry x="524.5" y="321" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9933;entryX=0.006;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-84" target="pBPiiuL6Pf1OYpwkVJSH-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="390" as="sourcePoint" />
             <mxPoint x="180" y="-50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="286" />
+              <mxPoint x="108" y="274" />
               <mxPoint x="110" y="-50" />
             </Array>
           </mxGeometry>
