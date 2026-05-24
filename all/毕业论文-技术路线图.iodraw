@@ -530,7 +530,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-81" value="肠道菌群群落组成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-81" value="肠道菌群群落组成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="508.25" y="190" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-84" edge="1">
@@ -544,7 +544,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-84" value="差异性菌群" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="525.5" y="274" width="89" height="30" as="geometry" />
+          <mxGeometry x="525.5" y="271" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-89" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -710,7 +710,7 @@
             <mxPoint x="120" y="390" as="sourcePoint" />
             <mxPoint x="180" y="-50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="105" y="289" />
+              <mxPoint x="106" y="284" />
               <mxPoint x="110" y="-50" />
             </Array>
           </mxGeometry>
@@ -864,7 +864,7 @@
           <mxGeometry x="736.7800000000001" y="873" width="80" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="MgU7wcxYq5NhQ36wDYa4-1" value="”肺-肠“轴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="70" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="69" y="117" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LMZL8ZIdZeCbeonrgDXP-1" value="通路相关mRNA表达" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC99FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="390.75" y="827" width="78" height="37.5" as="geometry" />
