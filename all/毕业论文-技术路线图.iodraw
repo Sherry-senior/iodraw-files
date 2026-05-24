@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0" version="24.7.17">
   <diagram name="第 1 页" id="uZl8_0j7mcRtiDhdSPVN">
-    <mxGraphModel dx="1171" dy="1560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="1560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,19 +537,6 @@
             <mxPoint x="3" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E3Z94L07qoZP3k3GkAm2-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-81" target="E3Z94L07qoZP3k3GkAm2-65" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="569.75" y="234" />
-              <mxPoint x="699.75" y="234" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E3Z94L07qoZP3k3GkAm2-79" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 12px; text-align: left; text-wrap: wrap;&quot;&gt;PICRUSt2&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E3Z94L07qoZP3k3GkAm2-78" vertex="1" connectable="0">
-          <mxGeometry x="0.6509" y="-1" relative="1" as="geometry">
-            <mxPoint y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-81" value="肠道菌群群落组成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="508.25" y="190" width="123" height="30" as="geometry" />
         </mxCell>
@@ -582,9 +569,6 @@
         </mxCell>
         <mxCell id="pBPiiuL6Pf1OYpwkVJSH-89" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;小鼠粪便&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="531" y="130" width="78" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="pBPiiuL6Pf1OYpwkVJSH-92" value="相关通路" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
-          <mxGeometry x="654.75" y="362" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -727,17 +711,6 @@
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-64" value="生物功能分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="389.75" y="361" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E3Z94L07qoZP3k3GkAm2-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E3Z94L07qoZP3k3GkAm2-65" target="pBPiiuL6Pf1OYpwkVJSH-92" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E3Z94L07qoZP3k3GkAm2-77" value="KEGG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="E3Z94L07qoZP3k3GkAm2-76" vertex="1" connectable="0">
-          <mxGeometry x="-0.3763" y="-2" relative="1" as="geometry">
-            <mxPoint x="1" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="E3Z94L07qoZP3k3GkAm2-65" value="功能预测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="1" vertex="1">
-          <mxGeometry x="654.5" y="291" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E3Z94L07qoZP3k3GkAm2-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9933;entryX=0.006;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pBPiiuL6Pf1OYpwkVJSH-84" target="pBPiiuL6Pf1OYpwkVJSH-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
